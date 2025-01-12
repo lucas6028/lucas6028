@@ -3,7 +3,7 @@ You can click the Preview link to take a look at your changes.
 --->
 <h1 align="center">Hi <img src="https://github.com/lucas6028/lucas6028/blob/main/icons/Hi.gif" width="28px"/>, I'm Hao-Ping</h1>
 <h2 align="center">
-  <img src="https://komarev.com/ghpvc/?username=[YourUsername]&color=dc143c&style=for-the-badge" alt="Profile Views" style="height:21px;">
+  <img src="https://komarev.com/ghpvc/?username=lucas6028&color=dc143c&style=for-the-badge" alt="Profile Views" style="height:21px;">
   Fullstack Developer
   <a href="https://lucas6028.github.io">
     <img src="https://img.shields.io/badge/Portfolio-543DE0?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" style="height:22px;">
