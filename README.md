@@ -17,7 +17,7 @@ You can click the Preview link to take a look at your changes.
 <!--- Social Links--->
 <div style="display: flex; flex-direction: column; justify-content: center; align-items: center; ">
   <a href="https://www.instagram.com/haoping1119/">
-    <img align="center" src="https://github.com/lucas6028/lucas6028/blob/main/icons/instagram.gif" width="70"/>
+    <img align="center" src="https://github.com/lucas6028/lucas6028/blob/main/icons/instagram.png" width="70"/>
   </a>
   <a href="https://www.facebook.com/profile.php?id=100012821538107">
     <img align="center" src="https://github.com/lucas6028/lucas6028/blob/main/icons/facebook.gif" width="70"/>
