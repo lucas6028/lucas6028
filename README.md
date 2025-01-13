@@ -20,6 +20,6 @@ You can click the Preview link to take a look at your changes.
     <img align="center" src="https://github.com/lucas6028/lucas6028/blob/main/icons/instagram.png" width="70"/>
   </a>
   <a href="https://www.facebook.com/profile.php?id=100012821538107">
-    <img align="center" src="https://github.com/lucas6028/lucas6028/blob/main/icons/facebook.png" width="70"/>
+    <img align="center" src="https://github.com/lucas6028/lucas6028/blob/main/icons/facebook.svg" width="70"/>
   </a>
 </div>
