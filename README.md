@@ -22,4 +22,7 @@ You can click the Preview link to take a look at your changes.
   <a href="https://www.facebook.com/profile.php?id=100012821538107">
     <img align="center" src="https://github.com/lucas6028/lucas6028/blob/main/icons/facebook.svg" width="50"/>
   </a>
+  <a href="https://leetcode.com/u/lucas60303/">
+    <img align="center" src="https://github.com/lucas6028/lucas6028/blob/main/icons/leetcode.svg" width="50"/>
+  </a>
 </div>
