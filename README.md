@@ -18,7 +18,7 @@ You can click the Preview link to take a look at your changes.
 <div style="display: flex; flex-direction: column; justify-content: center; align-items: center; ">
   <!--- Github by Pixel Icons--->
   <a href="https://github.com/lucas6028">
-    <img align="center" src="https://github.com/lucas6028/lucas6028/blob/main/icons/github.png" width="50"/>
+    <img align="center" src="https://github.com/lucas6028/lucas6028/blob/main/icons/github.svg" width="50"/>
   </a>
   <a href="https://www.instagram.com/haoping1119/">
     <img align="center" src="https://github.com/lucas6028/lucas6028/blob/main/icons/instagram.png" width="70"/>
