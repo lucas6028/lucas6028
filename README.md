@@ -20,6 +20,9 @@ You can click the Preview link to take a look at your changes.
   <a href="https://github.com/lucas6028">
     <img align="center" src="https://github.com/lucas6028/lucas6028/blob/main/icons/github.svg" width="50"/>
   </a>
+  <a href="https://lucas6028/github.io">
+    <img align="center" src="https://github.com/lucas6028/lucas6028/blob/main/icons/hao.png" width="50"/>
+  </a>
   <a href="https://www.instagram.com/haoping1119/">
     <img align="center" src="https://github.com/lucas6028/lucas6028/blob/main/icons/instagram.png" width="70"/>
   </a>
