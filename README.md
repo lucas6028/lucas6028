@@ -28,7 +28,7 @@ You can click the Preview link to take a look at your changes.
   </a>
   <!--- Linkedin by Icon Mafia--->
   <a href="https://www.linkedin.com/in/chen-haoping-578a0928a/">
-    <img align="center" src="https://github.com/lucas6028/lucas6028/blob/main/icons/linkedin.svg" width="60"/>
+    <img align="center" src="https://github.com/lucas6028/lucas6028/blob/main/icons/linkedin.svg" width="50"/>
   </a>
   <a href="https://leetcode.com/u/lucas60303/">
     <img align="center" src="https://github.com/lucas6028/lucas6028/blob/main/icons/leetcode.svg" width="50"/>
