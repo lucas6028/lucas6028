@@ -23,9 +23,6 @@ You can click the Preview link to take a look at your changes.
   <a href="https://www.instagram.com/haoping1119/">
     <img align="center" src="https://github.com/lucas6028/lucas6028/blob/main/icons/instagram.png" width="70" style="margin: 10px 0;"/>
   </a>
-  <a href="https://www.facebook.com/profile.php?id=100012821538107">
-    <img align="center" src="https://github.com/lucas6028/lucas6028/blob/main/icons/facebook.svg" width="50" style="margin: 10px 0;"/>
-  </a>
   <!--- LinkedIn by Ma. Lourdes Suello on IconScout--->
   <a href="https://www.linkedin.com/in/chen-haoping-578a0928a/">
     <img align="center" src="https://github.com/lucas6028/lucas6028/blob/main/icons/linkedin.svg" width="50" style="margin: 10px 0;"/>
