@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
   </a>
 </h2>
 <div align="center">
- <img alt="GIF" src="https://i.pinimg.com/originals/4c/65/7a/4c657af69ab0cbf549f12842e8af106d.gif&ct=g" />
+ <img alt="GIF" src="https://github.com/lucas6028/lucas6028/blob/main/images/attack_on_titan.gif" />
 </div>
 
 <!--- Social Links--->
