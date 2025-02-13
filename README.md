@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
   </a>
 </h2>
 <div align="center">
- <img alt="GIF" src="https://media3.giphy.com/media/9SvQFZ5xoGHza/giphy.gif?cid=6c09b9524x2ha8mbkvugx6z0z9mv68z80b84k9xa10cwt08v&ep=v1_gifs_search&rid=giphy.gif&ct=g" />
+ <img alt="GIF" src="https://media1.giphy.com/media/xT8qBpPTFsLrkrZahO/200.gif?cid=6c09b952mic9ycvurjosdq1z1ciqech708unrew8tnwib0gz&ep=v1_gifs_search&rid=200.gif&ct=g" />
 </div>
 
 <!--- Social Links--->
