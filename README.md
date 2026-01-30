@@ -18,10 +18,6 @@ You can click the Preview link to take a look at your changes.
   <img alt="GIF" src="https://media2.giphy.com/media/9SvQFZ5xoGHza/giphy.gif" />
 </div>
 
-<div align="center">
-  <img alt="GIF" src="https://media2.giphy.com/media/9SvQFZ5xoGHza/giphy.gif" />
-</div>
-
 
 <!--- Social Links--->
 <div style="display: flex; flex-direction: column; justify-content: center; align-items: center; ">
