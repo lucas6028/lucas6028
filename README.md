@@ -2,17 +2,26 @@
 You can click the Preview link to take a look at your changes.
 --->
 <!--- Introduction--->
-<h1 align="center">Hi <img src="https://github.com/lucas6028/lucas6028/blob/main/icons/Hi.gif" width="28px"/>, I'm Hao-Ping</h1>
+<h1 align="center">
+  Hi <img src="https://github.com/lucas6028/lucas6028/blob/main/icons/Hi.gif" width="28px"/>, I'm Hao-Ping
+</h1>
+
 <h2 align="center">
-  <img src="https://komarev.com/ghpvc/?username=lucas6028&color=dc143c&style=for-the-badge" alt="Profile Views" style="height:21px;">
+  <img src="https://img.shields.io/github/followers/lucas6028?style=for-the-badge&label=Followers" alt="GitHub Followers" style="height:21px;">
   Fullstack Developer
   <a href="https://lucas6028.github.io">
     <img src="https://img.shields.io/badge/Portfolio-543DE0?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" style="height:22px;">
   </a>
 </h2>
+
 <div align="center">
- <img alt="GIF" src="https://media2.giphy.com/media/9SvQFZ5xoGHza/giphy.gif?cid=6c09b952zd92gv6d55475elekp59qc613iq76f3r2z2rl3ij&ep=v1_gifs_search&rid=giphy.gif&ct=g" />
+  <img alt="GIF" src="https://media2.giphy.com/media/9SvQFZ5xoGHza/giphy.gif" />
 </div>
+
+<div align="center">
+  <img alt="GIF" src="https://media2.giphy.com/media/9SvQFZ5xoGHza/giphy.gif" />
+</div>
+
 
 <!--- Social Links--->
 <div style="display: flex; flex-direction: column; justify-content: center; align-items: center; ">
